@@ -4,7 +4,7 @@ const defaultTriggerValue = 'never';
 
 module.exports.templateTags = [
   {
-    "name": "MagentoAuthParse",
+    "name": "magentoauthparse",
     "displayName": "Magento Auth Parse",  
     "description": "Parse raw response of Magento Web Api Auth to use in chain requests.",
     args: [
