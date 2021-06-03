@@ -1,0 +1,15 @@
+{
+  "name": "insomnia-plugin-magento-auth-parse",
+  "version": "1.0.0",
+  "author": "Antônio Augusto <antonioaugusto889@gmail.com>",
+  "description": "Template Plugin based in raw response template, to parse Magento REST API Auth Response",
+  "license": "MIT",
+  "main": "index.js",
+  "insomnia": {
+    "name": "magento-auth-parse",
+    "description": "Parse raw response of Magento Web Api Auth to use in chain requests."
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.19"
+  }
+}
